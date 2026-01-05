@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
 ## Copyright 2017-2022 (c) by SDRausty, all rights reserved, see LICENSE
 ## hosting termuxarch.github.io/TermuxArch courtesy pages.github.com
