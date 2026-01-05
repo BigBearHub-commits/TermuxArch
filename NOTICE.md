@@ -1,3 +1,4 @@
+
 ##### -r--r--r-- [archsystemconfigs.bash](https://raw.githubusercontent.com/sdrausty/TermuxArch/master/archlinuxconfig.bash)
 
 ##### -r--r--r-- [espritfunctions.bash](https://raw.githubusercontent.com/sdrausty/TermuxArch/master/espritfunctions.bash)
